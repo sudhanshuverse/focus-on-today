@@ -16,7 +16,7 @@ allCheckboxList.forEach((checkbox) => {
 
         if(allGoalAdded) {
             checkbox.parentElement.classList.toggle('completed');
-            progressValue.style.Nwidth = '33.3%'
+            progressValue.style.width = '33.3%'
         }
         else{
             progressBar.classList.add('show-error')
