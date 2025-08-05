@@ -132,17 +132,6 @@ As you complete each task, you check it off and see:
 
 Everything is auto-saved, so if you revisit after lunch, your goals are still there!
 
-### 🧠 Motivational Quotes
-Based on completed goals, quotes update automatically:
-
-```js
-const allQuotes = [
-  'Raise the bar by completing your goals!',
-  'Well begun is half done!',
-  'Just a step away, keep going!',
-  'Whoa! You just completed all the goals, time to chill 😎'
-];
-```
 
 ## 📱 Responsive Design
 
