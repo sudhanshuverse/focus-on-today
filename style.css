@@ -69,10 +69,12 @@ main{
     /* padding-left: 20px; */
     /* visibility: hidden; */
     overflow: hidden;
+    transition: width 0.5s ease-in-out;
 }
 
 .progress-value span{
     padding-left: 20px;
+    min-width: max-content;
 }
 
 .error-label{
