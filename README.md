@@ -12,7 +12,7 @@ This is a simple front-end project built using:
 
 - ✅ **HTML** – to structure the content.
 - 🎨 **CSS** – to style and create responsive layouts.
-- ⚙️ **JavaScript** – to handle interactivity, user input, and data storage via `localStorage`.
+- ⚙️ **JavaScript** – to handle interactivity, user input, and data storage via `localStorage` in browser.
 
 The main idea is to help users **focus on just 3 goals per day**, complete them one by one, and visually track their success with a **progress bar** and **motivational messages**.
 
