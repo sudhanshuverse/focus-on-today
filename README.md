@@ -6,6 +6,14 @@ This is a simple a website where you can add your present day task and after com
 
 ---
 
+## 🔗 Live Preview
+
+[Click Here to View](https://your-live-preview-link.com)
+
+## 📸 Preview
+![Preview](./assets/preview.png)
+
+
 ## 📌 What is This Project?
 
 This is a simple front-end project built using:
