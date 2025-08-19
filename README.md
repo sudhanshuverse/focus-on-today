@@ -8,7 +8,7 @@ This is a simple a website where you can add your present day task and after com
 
 ## 🔗 Live Preview
 
-[Click Here to View](https://your-live-preview-link.com)
+[sudhanshuverse.github.io/focus-on-today/](https://sudhanshuverse.github.io/focus-on-today/)
 
 ## 📸 Preview
 ![Preview](./assets/preview.png)
